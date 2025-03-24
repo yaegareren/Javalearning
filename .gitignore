@@ -4,6 +4,7 @@
 
 # Ignore build directories
 /out/
+out/production/
 /target/
 *.class
 
